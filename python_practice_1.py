@@ -1,0 +1,1 @@
+print("Vladyslav Vitisk, AI-2024")
